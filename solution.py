@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from scipy.stats import norm
+from scipy.stats import laplace
 
 
 chat_id = 287133833 # Ваш chat ID, не меняйте название переменной
